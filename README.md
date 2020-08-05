@@ -21,11 +21,5 @@ break loop.  Sets keepAlivePin to low to allow reset.
 loop:
 na
 
-Virtual Incision dummy google account info:
-vipermtempalarm@gmail.com
-password: EtGuUU++vNN@#4GZ
-password will work with anything connected to this account including ifttt.
-Email can be forwarded to any account. 
-
 Serial prints have been commented out to optimize code, uncomment for debug.
 
