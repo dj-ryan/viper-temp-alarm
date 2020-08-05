@@ -7,7 +7,8 @@ D1 Mini to run this program.
 
 D1 Mini driver:
 https://wiki.wemos.cc/downloads
-board Manager:
+
+Board Manager:
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
