@@ -14,7 +14,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 setup:
 Connects to Internal WiFi and triggers an event on ifttt. ifttt sends email to a
-dummy Virtual Incision google account (details below). Sets keepAlivePin to HIGH to
+dummy google account. Sets keepAlivePin to HIGH to
 prevent reset upon Alarm reset. Blinks LED light and waits for a button input to 
 break loop.  Sets keepAlivePin to low to allow reset.
 
