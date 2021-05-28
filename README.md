@@ -1,4 +1,8 @@
 # viper-temp-alarm
+
+*Repo has been depreciated, code no longer in service by Vitual Incision*
+
+
 A short Arduino script that sends an email when reset (by relay) to any specified client using IFTTT
 
 OM-THA2-U Temperature/Humidity/Dewpoint Alarm's (120-000060-000) NO (normaly open) relay output 
