@@ -29,7 +29,7 @@ na
 
 Virtual Incision dummy google account info:
 vipermtempalarm@gmail.com
-password: EtGuUU++vNN@#4GZ
+password: ******************
 password will work with anything connected to this account including ifttt.
 Email can be forwarded to any account. 
 
